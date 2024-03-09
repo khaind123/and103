@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847645200510",
+    "project_id": "lab1-abb37",
+    "storage_bucket": "lab1-abb37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847645200510:android:a37fc0359d43ae6fe3082f",
+        "android_client_info": {
+          "package_name": "com.example.lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeHMKdSDtuTEoAKenCmLNOoFGQ2BWO-cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
